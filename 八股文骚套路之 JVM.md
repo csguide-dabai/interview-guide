@@ -39,7 +39,7 @@
 
 - Github 地址：https://github.com/Snailclimb/JavaGuide
 - Gitee 地址：https://gitee.com/SnailClimb/JavaGuide（Github 无法访问或者访问速度比较慢的小伙伴可以看码云上的对应内容）
-- 在线阅读地址: https://snailclimb.gitee.io/javaguide/#/
+- 在线阅读地址: https://javaguide.cn/
 
 ![](https://img-blog.csdnimg.cn/1eae417991c14035b13ff5b696a27d78.png)
 
